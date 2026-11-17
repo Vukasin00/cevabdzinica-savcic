@@ -1,0 +1,26 @@
+{
+  "id": "/cevabdzinica-savcic/kuhinja",
+  "name": "Savčić · Kuhinja",
+  "short_name": "Kuhinja",
+  "description": "Portal za kuhinju — Ćevabdžinica Savčić",
+  "lang": "sr",
+  "start_url": "/cevabdzinica-savcic/kuhinja",
+  "scope": "/cevabdzinica-savcic/kuhinja",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#2E1A0F",
+  "background_color": "#2E1A0F",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

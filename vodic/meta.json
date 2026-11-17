@@ -1,0 +1,49 @@
+{
+  "info": {
+    "id": "savcic",
+    "guideKey": "cs-guide-done",
+    "storageKey": "cevabdzinica-savcic",
+    "fulfillments": [
+      "delivery",
+      "pickup"
+    ],
+    "sizes": 8,
+    "name": "Ćevabdžinica Savčić",
+    "address": "Kralja Milutina 31, Beograd",
+    "phone": "011 364 0661",
+    "hours": "Pon–sub 09:00 – 22:30 · Ned 12:00 – 21:00",
+    "instagram": "https://www.instagram.com/cevabdzinica_savcic/",
+    "logo": "logo.webp",
+    "deliveryFee": 250,
+    "cardPayment": [
+      "pickup"
+    ],
+    "locations": 2,
+    "categories": 5,
+    "menu": "static",
+    "menuItems": 18,
+    "closedToday": false,
+    "soldOutToday": [],
+    "orders": "local",
+    "tenantPath": "savcic",
+    "emulator": false
+  },
+  "style": {
+    "bg": "#F4EBDD",
+    "card": "#FFFBF5",
+    "inset": "#EBDFCC",
+    "line": "#DCCBB3",
+    "primary": "#C49A6C",
+    "onPrimary": "#2B1A10",
+    "dark": "#2E1A0F",
+    "dark2": "#3D2314",
+    "cta": "#8E2A16",
+    "ink": "#2E1A0F",
+    "ink2": "#6A5040",
+    "font": "\"Alfa Slab One\", \"Rockwell Extra Bold\", \"Rockwell\", \"Georgia\", serif",
+    "tracking": "0.005em",
+    "case": "none",
+    "weight": "400",
+    "scale": "0.74"
+  }
+}
